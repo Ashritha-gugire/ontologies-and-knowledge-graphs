@@ -1,4 +1,4 @@
-**Ontology and Knowledge Graphs for Wines Data**
+*****Ontology and Knowledge Graphs for Wines Data******
 
 This is a simple project, which involves the creation and analysis of an ontology and knowledge graph specifically designed for the wine domain. 
 The notebook Ontology_KG_Wines.ipynb contains the complete workflow, including data preparation, and knowledge graph visualization.
